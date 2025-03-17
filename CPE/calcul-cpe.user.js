@@ -6,6 +6,8 @@
 // @author       Loïc PUPIER
 // @match        https://mycpe.cpe.fr/faces/ChoixDonnee.xhtml
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cpe.fr
+// @updateURL    https://github.com/loicpp/User-Script/raw/refs/heads/main/CPE/calcul-cpe.user.js
+// @downloadURL  https://github.com/loicpp/User-Script/raw/refs/heads/main/CPE/calcul-cpe.user.js
 // @grant        none
 // ==/UserScript==
 
