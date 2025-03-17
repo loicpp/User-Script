@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Calcul CPE
 // @namespace    http://tampermonkey.net/
-// @version      2502.1
+// @version      2502.2
 // @description  Affiche les notes avec les moyennes calculées
 // @author       Loïc PUPIER
 // @match        https://mycpe.cpe.fr/faces/ChoixDonnee.xhtml
@@ -25,7 +25,6 @@ const notes = {};
     extractDatas();
     calculDatas();
     initDisplay();
-    initRenderButton();
 })();
 
 function extractDatas() {
